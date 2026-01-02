@@ -1,6 +1,6 @@
 title: Vynixc
 description: Tecnologia construída com propósito.
-theme: minima
+# theme: minima (Removido para usar layout customizado)
 markdown: kramdown
 
 author:
