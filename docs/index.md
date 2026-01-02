@@ -13,7 +13,7 @@ Este espaço foi criado para centralizar informações, padrões e guias sobre o
 A **VynixC** é uma organização voltada ao desenvolvimento de soluções tecnológicas modernas, atuando principalmente em:
 
 - 🌐 Desenvolvimento Web  
-- 🎮 Game Servers (FiveM, MTA, SA-MP / open.mp)  
+- 🎮 Game Servers  
 - 🔌 APIs e integrações  
 - 🤖 Bots e automações  
 - 📦 Includes e bibliotecas reutilizáveis  
